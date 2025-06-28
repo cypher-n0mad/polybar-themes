@@ -1,10 +1,10 @@
 /* colors */
 
 * {
-  al:   #00000000;
-  bg:   #1F1F1FFF;
-  bga:  #ffb30033;
-  bar:  #1F1F1FFF;
-  fg:   #FFFFFFFF;
-  ac:   #ffb300FF;
+  al:  #00000000;
+  bg:  #2E3440;  /* Polar Night 0 */
+  bga: #5E81AC33;  /* Frost 4 (semi-transparent active background) */
+  bar: #3B4252;  /* Polar Night 1 */
+  fg:  #D8DEE9;  /* Snow Storm 0 */
+  ac:  #88C0D0;  /* Frost 1 (Accent color) */
 }
